@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PurchaseApplication2</string>
+    <string name="purchase">Надо купить</string>
+    <string name="pro">Уже купил</string>
+</resources>
